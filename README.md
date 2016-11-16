@@ -15,8 +15,16 @@ This is a arcade game developed as part of Udacity's front-end web development c
 # Installation:
 
 - Download the project files to a local machine.
-- You can download it from my github page
+- You can download it from my github page-(https://github.com/Vittal-Prabhu/Arcade-Game)
 - Open index.html in a browser and game will start.
+
+# Instructions to play:
+
+- Use the arrow keys on the keyboard("up key","down key","right key", "left key") to change the directions of the player to up, down, right, left respectively.
+- Using the arrow keys we have to cross the enemy road without encountering them.
+- Cross the road successfully to get a score of 20 at eech respective levels.
+- Once you cross the road you are updated to a new level.
+- If you clear 5 levels in the game you complete the game successfully.
 
 
 
